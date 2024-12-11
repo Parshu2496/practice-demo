@@ -1,2 +1,2 @@
 # practice-demo
-This is my trail project
+This is my first git repository
